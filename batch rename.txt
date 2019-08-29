@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+for a in *.py; do mv $a `printf %04d.%s ${a%.*} ${a##*.}`;done
