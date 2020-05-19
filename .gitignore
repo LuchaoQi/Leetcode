@@ -1,5 +1,6 @@
 selfboot_leetcode/.git
-**/.idea
+*.idea
 .ipynb_checkpoints
 .vs
-**/venv
+*venv
+**/.git
