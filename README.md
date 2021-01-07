@@ -8,19 +8,19 @@
 
 
 
-
-
 ## Resources
 
 
 
+https://github.com/lxztju/leetcode-algorithm
 
+https://github.com/qiyuangong/leetcode/tree/master/python
+
+https://github.com/changgyhub/leetcode_101
 
 https://github.com/selfboot/LeetCode
 
 https://github.com/apachecn/Interview/tree/master/docs/Algorithm/Leetcode/Python
-
-
 
 [Chineses github](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)
 
